@@ -1,0 +1,14 @@
+/Users/liuliu/Projects/TortOrder/TortOrder/obj/Debug/netcoreapp3.1/TortOrder.csproj.AssemblyReference.cache
+/Users/liuliu/Projects/TortOrder/TortOrder/obj/Debug/netcoreapp3.1/TortOrder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liuliu/Projects/TortOrder/TortOrder/obj/Debug/netcoreapp3.1/TortOrder.AssemblyInfoInputs.cache
+/Users/liuliu/Projects/TortOrder/TortOrder/obj/Debug/netcoreapp3.1/TortOrder.AssemblyInfo.cs
+/Users/liuliu/Projects/TortOrder/TortOrder/obj/Debug/netcoreapp3.1/TortOrder.csproj.CoreCompileInputs.cache
+/Users/liuliu/Projects/TortOrder/TortOrder/bin/Debug/netcoreapp3.1/TortOrder
+/Users/liuliu/Projects/TortOrder/TortOrder/bin/Debug/netcoreapp3.1/TortOrder.deps.json
+/Users/liuliu/Projects/TortOrder/TortOrder/bin/Debug/netcoreapp3.1/TortOrder.runtimeconfig.json
+/Users/liuliu/Projects/TortOrder/TortOrder/bin/Debug/netcoreapp3.1/TortOrder.runtimeconfig.dev.json
+/Users/liuliu/Projects/TortOrder/TortOrder/bin/Debug/netcoreapp3.1/TortOrder.dll
+/Users/liuliu/Projects/TortOrder/TortOrder/bin/Debug/netcoreapp3.1/TortOrder.pdb
+/Users/liuliu/Projects/TortOrder/TortOrder/obj/Debug/netcoreapp3.1/TortOrder.dll
+/Users/liuliu/Projects/TortOrder/TortOrder/obj/Debug/netcoreapp3.1/TortOrder.pdb
+/Users/liuliu/Projects/TortOrder/TortOrder/obj/Debug/netcoreapp3.1/TortOrder.genruntimeconfig.cache
